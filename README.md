@@ -10,12 +10,12 @@ This can be called a huge project to summarize it. Please check out `00 Notes --
 
 -Deep Learning
 <div align="left">
-<img src="https://github.com/JimengShi/DL-WaLeF/tree/main/figures/hec-ras.png" alt="course" >
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/hec-ras.png" alt="course" >
 </div>
 
 - HEC-RAS
 <div align="left">
-<img src="https://github.com/JimengShi/DL-WaLeF/tree/main/figures/hec-ras.png" alt="course" >
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/hec-ras.png" alt="course" >
 </div>
 
 
