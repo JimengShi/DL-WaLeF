@@ -1,6 +1,4 @@
-# Deep-Learning-Models-for-Water-Stage-Prediction
-
-course: [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
+# Codes for Deep-Learning-Models-for-Water-Stage-Prediction
 
 ## Study domain
 <div align="center">
@@ -20,4 +18,7 @@ course: [https://www.coursera.org/specializations/deep-learning](https://www.cou
 <img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/hec-ras.jpeg" alt="course" width="600"/>
 </div>
 
-
+## Results
+<div align="center">
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/hec-ras.jpeg" alt="course" width="600"/>
+</div>
