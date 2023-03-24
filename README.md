@@ -9,7 +9,7 @@ course: [https://www.coursera.org/specializations/deep-learning](https://www.cou
 
 ## Framework 
 
--Deep Learning
+- Deep Learning
 <div align="center">
 <img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/dl.png" alt="course" width="600"/>
 </div>
