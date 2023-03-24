@@ -20,5 +20,13 @@
 
 ## Results
 <div align="center">
-<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/hec-ras.jpeg" alt="course" width="600"/>
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig10.jpeg" alt="course" width="600"/>
+</div>
+
+<div align="center">
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig11.jpeg" alt="course" width="600"/>
+</div>
+
+<div align="center">
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig12.jpeg" alt="course" width="600"/>
 </div>
