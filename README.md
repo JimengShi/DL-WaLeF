@@ -1,5 +1,14 @@
 # Codes for Deep-Learning-Models-for-Water-Stage-Prediction
 
+## Packages with Python 3.8
+- tensorflow
+- matplotlib
+- pandas
+- numpy
+- math
+- sklearn
+
+
 ## Study domain
 <div align="center">
 <img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/domain.png" alt="domian" width="600"/>
