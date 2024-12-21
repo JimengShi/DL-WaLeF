@@ -11,7 +11,7 @@ Official codes for "[Deep Learning Models for Water Stage Prediction in South Fl
 ## Directory
 - **data**: all data files used
 - **output**: saved experiment results
-- **post_processing**: `ipynb` files for visualization and performance analysis 
+- **post_processing**: performance analysis and visualization
   - `error_vs_time.ipynb` computes MAE, RMSE, NSE, KDE vs prediction lengths (Table 2 in paper)
   - `hecras_errors.ipynb` computes prediction errors of the HEC-RAS model
   - `beyond_thre_precent.ipynb` calculates the percentage of errors beyond [-0.5, 0.5] (Table 4 in paper)
