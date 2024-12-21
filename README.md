@@ -1,5 +1,6 @@
 Official codes for "[Deep Learning Models for Water Stage Prediction in South Florida](https://arxiv.org/abs/2306.15907)."
 
+Contact: Jimeng Shi, PhD student at Florida International University (jshi008@fiu.edu)
 
 ## Environment
  - install Anaconda or Miniconda by following the steps in [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
@@ -49,7 +50,7 @@ Official codes for "[Deep Learning Models for Water Stage Prediction in South Fl
 </div>
 
 
-## Results
+## Primary Results
 <div align="center">
 <img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig10.png" alt="course" width="600"/>
 </div>
