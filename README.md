@@ -10,11 +10,20 @@ Official codes for "[Deep Learning Models for Water Stage Prediction in South Fl
 
 ## Directory
 - **data**: all data files used
-- **output**: experiment results
-- **post_processing**: `ipynb` files for visualization and performance analysis
+- **output**: saved experiment results
+- **post_processing**: `ipynb` files for visualization and performance analysis 
+  - `error_vs_time.ipynb` computes MAE, RMSE, NSE, KDE vs prediction lengths (Table 2 in paper)
+  - `hecras_errors.ipynb` computes prediction errors of the HEC-RAS model
+  - `beyond_thre_precent.ipynb` calculates the percentage of errors beyond [-0.5, 0.5] (Table 4 in paper)
+  - `error_vs_location.ipynb` computes MAE vs locations (Tables 5, 6 in paper)
+  - `violin_plots.ipynb` produces violin plots (Figures 4, 5 in paper)
+  - `curve_plots.ipynb` visualizes the observed and predicted water levels (Figures 6, 7 in paper)
+  - `p_values.ipynb` compute p values.
 - **training**: `ipynb` files for training models
-- **saved_model**: trained model
+- **saved_model**: saved trained model
 - **sensitivity**: `ipynb` files for experiments with added noise for forecast estimates
+  - `noise20.ipynb` shows the results after adding 20% noise to future estimates (Table 3 in paper)
+  - `noise40.ipynb` shows the results after adding 40% noise to future estimates
 
 ## Run
 - train the models by running `ipynb` files under `training` folder
