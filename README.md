@@ -53,14 +53,17 @@ South Florida is vulnerable to hurricane events with extremely heavy precipitati
 
 
 ## Primary Results
+
+Glance at the primary results. See the paper for details.
+
 <div align="center">
-<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig10.png" alt="course" width="600"/>
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig10.png" alt="course" width="700"/>
 </div>
 
 <div align="center">
-<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig11.png" alt="course" width="600"/>
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig11.png" alt="course" width="700"/>
 </div>
 
 <div align="center">
-<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig12.png" alt="course" width="600"/>
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/fig12.png" alt="course" width="700"/>
 </div>
