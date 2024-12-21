@@ -2,9 +2,10 @@ Official codes for "[Deep Learning Models for Water Stage Prediction in South Fl
 
 
 ## Environment
- - conda create -n `ENV_NAME` python=3.8 
- - conda activate `ENV_NAME` 
- - pip install -r requirements.txt
+ - install Anaconda or Miniconda by following the steps in [https://docs.anaconda.com/anaconda/install/](https://docs.anaconda.com/anaconda/install/)
+ - create a python environment by: conda create -n `ENV_NAME` python=3.8 
+ - activate the created environment by: conda activate `ENV_NAME` 
+ - install necessary packages for running this repository: pip install -r requirements.txt
  - Note: pip install `package` if other packages are missing
 
 
